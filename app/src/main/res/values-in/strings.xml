@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="tv_movies">TV Film</string>
+    <string name="movies">Film</string>
+    <string name="title">Judul</string>
+    <string name="date" >10 January 2019</string>
+    <string name="description" >deskripsi</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="english">Inggris</string>
+    <string name="language">Bahasa</string>
+    <string name="image_content" >Gambar</string>
+    <string name="overview">Sipnosis</string>
+    <string name="refresh">Muat ulang</string>
+    <string name="Favorite">Kesukaan</string>
+    <string name="unlike">Tidak Suka</string>
+    <string name="like">Disukai</string>
+    <string name="search">Telusuri</string>
+    <string name="des1">Mengaktifkan Pengingat Film Release Hari ini</string>
+    <string name="des2">Pengingat Harian</string>
+    <string name="release_reminder">Pengingat Harian</string>
+    <string name="reminder_for_return_to_app">Pengingat untuk harian</string>
+    <string name="message">Catalog Movie Merindukanmu</string>
+    <string-array name="title_tab">
+        <item>Film Kesukaan</item>
+        <item>Film TV Kesukaan</item>
+    </string-array>
+</resources>
